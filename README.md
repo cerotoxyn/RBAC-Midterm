@@ -1,4 +1,6 @@
 # Secure RBAC Encryption Project
+Required video to demonstrate how the script works: https://drive.google.com/file/d/19Y1vZY83hbvX9mQynveqyyjrdo1-d08O/view?usp=sharing
+
 
 ## Overview
 This project is a simple Python application that demonstrates user login, role-based access control, hashing, encryption, decryption, and integrity verification. It was created to show basic cybersecurity concepts in action, including confidentiality, integrity, availability, entropy, and digital signatures.
